@@ -1,0 +1,35 @@
+{
+    "calendarUrl": "http://hype.retroscene.org/page/287.html",
+    "links" : [
+        {
+            "name" : "Hype",
+            "link" : "http://hype.retroscene.org/",
+            "img" : "/assets/images/logos/hype.png"
+        },
+        {
+            "name" : "Events",
+            "link" : "http://events.retroscene.org/",
+            "img" : "/assets/images/logos/events.png"
+        },
+        {
+            "name" : "HypeRadio",
+            "link" : "http://hyperadio.retroscene.org/",
+            "img" : "/assets/images/logos/hyperadio.png"
+        },
+        {
+            "name": "BBB",
+            "link": "http://bbb.retroscene.org",
+            "img": "/assets/images/logos/bbb.png"
+        },
+        {
+            "name" : "ZxArt",
+            "link" : "http://zxart.ee/",
+            "img" : "/assets/images/logos/zxart.png"
+        },
+        {
+            "name" : "Pouët",
+            "link" : "http://www.pouet.net/",
+            "img" : "/assets/images/logos/pouet.png"
+        }
+    ]
+}
