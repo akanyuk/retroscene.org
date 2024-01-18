@@ -3,32 +3,32 @@
     "links" : [
         {
             "name" : "Hype",
-            "link" : "http://hype.retroscene.org/",
+            "link" : "https://hype.retroscene.org/",
             "img" : "/assets/images/logos/hype.png"
         },
         {
             "name" : "Events",
-            "link" : "http://events.retroscene.org/",
+            "link" : "https://events.retroscene.org/",
             "img" : "/assets/images/logos/events.png"
         },
         {
             "name" : "HypeRadio",
-            "link" : "http://hyperadio.retroscene.org/",
+            "link" : "https://hyperadio.retroscene.org/",
             "img" : "/assets/images/logos/hyperadio.png"
         },
         {
             "name": "BBB",
-            "link": "http://bbb.retroscene.org",
+            "link": "https://bbb.retroscene.org",
             "img": "/assets/images/logos/bbb.png"
         },
         {
             "name" : "ZxArt",
-            "link" : "http://zxart.ee/",
+            "link" : "https://zxart.ee/",
             "img" : "/assets/images/logos/zxart.png"
         },
         {
             "name" : "Pouët",
-            "link" : "http://www.pouet.net/",
+            "link" : "https://www.pouet.net/",
             "img" : "/assets/images/logos/pouet.png"
         }
     ]

@@ -1,0 +1,9 @@
+version: '3.7'
+services:
+  nginx:
+    build:
+      context: ./docker/nginx
+    ports:
+      - '80:80'
+    volumes:
+      - ${WWW_ROOT}:/opt/www
