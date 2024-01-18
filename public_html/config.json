@@ -1,5 +1,4 @@
 {
-    "calendarUrl": "http://hype.retroscene.org/page/287.html",
     "links" : [
         {
             "name" : "Hype",
@@ -22,14 +21,14 @@
             "img": "/assets/images/logos/bbb.png"
         },
         {
-            "name" : "ZxArt",
-            "link" : "https://zxart.ee/",
-            "img" : "/assets/images/logos/zxart.png"
+            "name" : "Demodulation",
+            "link" : "https://demodulation.retroscene.org",
+            "img" : "/assets/images/logos/demodulation.png"
         },
         {
-            "name" : "Pouët",
-            "link" : "https://www.pouet.net/",
-            "img" : "/assets/images/logos/pouet.png"
+            "name" : "53c",
+            "link" : "https://53c.retroscene.org",
+            "img" : "/assets/images/logos/53c.png"
         }
     ]
 }
